@@ -142,6 +142,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -153,6 +154,11 @@
   },
   "active": "9f764a955777d292",
   "lastOpenFiles": [
+    "storage/emulated/0/Obsidian/Rex.",
+    "storage/emulated/0/Obsidian",
+    "storage/emulated/0",
+    "storage/emulated",
+    "storage",
     "School/200lvl/2nd Semester/Exam Revisions.md",
     "School/200lvl/2nd Semester/MTH 242.md",
     "School/200lvl/2nd Semester",
