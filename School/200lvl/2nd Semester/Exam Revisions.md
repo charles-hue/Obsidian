@@ -1,1 +1,9 @@
-![[School/200lvl/2nd Semester/MTH 242]]
+![[To Study]]
+
+---
+
+[[MTH 242]]
+
+---
+
+[[COS 264]]
