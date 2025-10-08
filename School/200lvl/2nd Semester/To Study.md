@@ -2,3 +2,4 @@
 - [ ] ⏫ Finish MTH 242 CA
 - [ ] 🔼 Study for COS 232
 - [x] COS 264 Exam ✅ 2025-10-08
+- [ ] Start GSP 202 CA 📅 2025-10-13 
