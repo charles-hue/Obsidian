@@ -2,8 +2,8 @@
 
 ---
 
-[[MTH 242]]
+[[MTH 242]] - Math... 
 
 ---
 
-[[COS 264]]
+[[COS 264]] - Computer Programming II

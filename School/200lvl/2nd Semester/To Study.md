@@ -1,0 +1,3 @@
+- [ ] ⏫ Study PHY 242
+- [ ] ⏫ Finish MTH 242 CA
+- [ ] 🔼 Study for COS 232
