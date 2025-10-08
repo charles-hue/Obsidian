@@ -11,14 +11,10 @@
             "id": "1e13676656130c88",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "School/200lvl/2nd Semester/Exam Revisions.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Exam Revisions"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -164,9 +160,9 @@
   },
   "active": "1e13676656130c88",
   "lastOpenFiles": [
+    "School/200lvl/2nd Semester/To Study.md",
     "School/200lvl/2nd Semester/MTH 242.md",
     "School/200lvl/2nd Semester/Exam Revisions.md",
-    "School/200lvl/2nd Semester/To Study.md",
     "School/200lvl/2nd Semester/COS 264.md",
     "storage/emulated/0/Obsidian/Rex.",
     "storage/emulated/0/Obsidian",
