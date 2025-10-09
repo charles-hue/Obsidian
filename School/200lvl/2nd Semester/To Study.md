@@ -1,4 +1,5 @@
 - [ ] ⏫ Study PHY 242
+  - [ ] Interference of Light 
 - [ ] ⏫ Finish MTH 242 CA
 - [ ] 🔼 Study for COS 232
 - [x] COS 264 Exam ✅ 2025-10-08
