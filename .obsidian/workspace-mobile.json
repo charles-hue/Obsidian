@@ -13,12 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School/200lvl/2nd Semester/STA 206.md",
+                "file": "Personal/Personal Growth Roadmap.md",
                 "mode": "preview",
-                "source": false
+                "source": false,
+                "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "STA 206"
+              "title": "Personal Growth Roadmap"
             }
           },
           {
@@ -176,15 +177,20 @@
       "bases:Create new base": false
     }
   },
-  "active": "ae4cd42b57968ac4",
+  "active": "5a137ff1973a8bab",
   "lastOpenFiles": [
-    "Untitled",
-    "School/200lvl/2nd Semester/Exam Revisions.md",
+    "Personal/Growth Dashboard.md",
+    "Personal/Personal Growth Roadmap.md",
+    "Personal/Weekly Reviews/Week 1 - Oct 12-18.md",
+    "Personal/Weekly Reviews/Template.md",
+    "School/200lvl/2nd Semester/To Study.md",
     "School/200lvl/2nd Semester/STA 206.md",
+    "Personal/Weekly Reviews",
+    "Personal",
+    "School/200lvl/2nd Semester/Exam Revisions.md",
     "School/200lvl/2nd Semester/PHY 242 Study Timetable.md",
     "School/200lvl/2nd Semester/Untitled",
     "School/200lvl/2nd Semester/PHY 242.md",
-    "School/200lvl/2nd Semester/To Study.md",
     "School/200lvl/2nd Semester/MTH 242.md",
     "School/200lvl/2nd Semester/COS 264.md",
     "storage/emulated/0/Obsidian/Rex.",
@@ -193,8 +199,6 @@
     "storage/emulated",
     "storage",
     "School/200lvl/2nd Semester",
-    "School/200lvl",
-    "School",
-    "Untitled.base"
+    "School/200lvl"
   ]
 }
