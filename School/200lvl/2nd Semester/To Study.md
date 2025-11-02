@@ -1,6 +1,6 @@
-- [ ] ⏫ Study PHY 242
+- [x] ⏫ Study PHY 242 ✅ 2025-11-02
   - [ ] Interference of Light 
-- [ ] ⏫ Finish MTH 242 CA
+- [x] ⏫ Finish MTH 242 CA ✅ 2025-11-02
 - [ ] 🔼 Study for COS 232
 - [x] COS 264 Exam ✅ 2025-10-08
-- [ ] Start GSP 202 CA 📅 2025-10-13 
+- [x] Start GSP 202 CA 📅 2025-10-13 ✅ 2025-11-02
