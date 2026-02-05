@@ -1,3 +1,4 @@
+[[Spine]]
 ### COMPULSORY COURSES
 COS 361- Object Oriented Programming- 3 units
 
