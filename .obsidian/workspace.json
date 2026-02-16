@@ -22,15 +22,17 @@
             }
           },
           {
-            "id": "76827f079fcbe57f",
+            "id": "bb58c8439919ba4b",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.11.7"
+                "file": "School/300lvl/Motivation Letter.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.11.7"
+              "icon": "lucide-file",
+              "title": "Motivation Letter"
             }
           }
         ],
@@ -184,10 +186,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "76827f079fcbe57f",
+  "active": "bb58c8439919ba4b",
   "lastOpenFiles": [
-    "School/300lvl/Spine.md",
+    "School/300lvl/Motivation Letter.md",
     "School/300lvl/General Outlines.md",
+    "School/300lvl/Spine.md",
     "School/300lvl"
   ]
 }
