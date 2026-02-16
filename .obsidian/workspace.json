@@ -22,21 +22,20 @@
             }
           },
           {
-            "id": "bb58c8439919ba4b",
+            "id": "dc6823e0b9007ed2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School/300lvl/Motivation Letter.md",
+                "file": "School/300lvl/Spine.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Motivation Letter"
+              "title": "Spine"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -182,8 +181,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -197,10 +195,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bb58c8439919ba4b",
+  "active": "f280b186de51ec31",
   "lastOpenFiles": [
-    "School/300lvl/Motivation Letter.md",
     "School/300lvl/General Outlines.md",
+    "School/300lvl/Motivation Letter.md",
     "School/300lvl/Spine.md",
     "School/300lvl"
   ]
