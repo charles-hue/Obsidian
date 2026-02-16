@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "General Outlines"
             }
+          },
+          {
+            "id": "76827f079fcbe57f",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.7"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -171,7 +184,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f280b186de51ec31",
+  "active": "76827f079fcbe57f",
   "lastOpenFiles": [
     "School/300lvl/Spine.md",
     "School/300lvl/General Outlines.md",
