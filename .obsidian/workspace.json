@@ -25,12 +25,14 @@
             "id": "0d40828d275ff0a5",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.12.7"
+                "file": "School/300lvl/Study Guide.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.12.7"
+              "icon": "lucide-file",
+              "title": "Study Guide"
             }
           },
           {
@@ -105,8 +107,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "0d71c9a57da21b9c",
@@ -211,6 +212,7 @@
   },
   "active": "0d40828d275ff0a5",
   "lastOpenFiles": [
+    "School/300lvl/Study Guide.md",
     "School/300lvl/General Outlines.md",
     "School/300lvl/Motivation Letter.md",
     "School/300lvl/Spine.md",
